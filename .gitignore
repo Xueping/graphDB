@@ -1,0 +1,5 @@
+*.log
+metastore_db
+movies-python-py2neo-2.0
+neo4j-community-3.3.3
+.ipynb_checkpoints
